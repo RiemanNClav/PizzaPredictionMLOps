@@ -1,0 +1,27 @@
+company,price_rupiah,diameter,topping,variant,size,extra_sauce,extra_cheese,extra_mushrooms
+C,"Rp39,000",8.5 inch,sausage,BBQ_sausage,small,no,yes,yes
+B,"Rp76,000",12 inch,chicken,crunchy,medium,no,no,no
+A,"Rp90,000",12 inch,mozzarella,meat_lovers,reguler,yes,yes,yes
+B,"Rp31,000",8.5 inch,mushrooms,classic,small,yes,yes,yes
+E,"Rp72,000",14 inch,chicken,classic,large,yes,yes,yes
+C,"Rp72,000",12 inch,sausage,BBQ_sausage,medium,yes,yes,no
+C,"Rp84,000",14 inch,vegetables,italian_veggie,large,yes,yes,no
+E,"Rp96,000",12 inch,chicken,double_decker,medium,no,yes,no
+D,"Rp70,000",8 inch,chicken,meat_lovers,reguler,yes,yes,no
+B,"Rp46,000",12 inch,chicken,classic,medium,yes,no,no
+D,"Rp31,000",8.5 inch,mushrooms,classic,small,yes,yes,no
+B,"Rp72,000",14 inch,smoked_beef,classic,large,yes,no,yes
+C,"Rp44,000",8.5 inch,vegetables,gournet_greek,small,no,no,no
+A,"Rp248,000",18 inch,mozzarella,double_signature,jumbo,yes,no,yes
+D,"Rp93,000",14 inch,mushrooms,classic,large,no,yes,no
+E,"Rp23,500",8.5 inch,mozzarella,classic,small,yes,no,yes
+B,"Rp123,000",12 inch,smoked_beef,double_decker,medium,yes,yes,yes
+D,"Rp110,000",16 inch,smoked_beef,meat_lovers,jumbo,no,yes,no
+D,"Rp83,000",17 inch,chicken,new_york,XL,no,yes,yes
+D,"Rp230,000",22 inch,chicken,double_mix,jumbo,yes,yes,yes
+A,"Rp90,000",12 inch,mushrooms,meat_lovers,reguler,yes,yes,yes
+A,"Rp140,000",18.5 inch,mozzarella,super_supreme,jumbo,no,no,no
+E,"Rp46,000",12 inch,mushrooms,classic,medium,yes,yes,no
+A,"Rp110,000",16 inch,black_papper,super_supreme,jumbo,yes,yes,no
+E,"Rp39,000",8.5 inch,tuna,spicy tuna,small,yes,yes,yes
+B,"Rp72,000",14 inch,mozzarella,classic,large,yes,yes,no
