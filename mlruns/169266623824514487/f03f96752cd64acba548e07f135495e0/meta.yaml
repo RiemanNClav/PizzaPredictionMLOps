@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/f03f96752cd64acba548e07f135495e0/artifacts
+end_time: 1724006415458
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: f03f96752cd64acba548e07f135495e0
+run_name: invincible-boar-390
+run_uuid: f03f96752cd64acba548e07f135495e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724006386208
+status: 3
+tags: []
+user_id: AngelClavellina

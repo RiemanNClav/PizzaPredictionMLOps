@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/94abadf6157f4f649ae0c035de30df7b/artifacts
+end_time: 1724006221334
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: 94abadf6157f4f649ae0c035de30df7b
+run_name: monumental-crab-601
+run_uuid: 94abadf6157f4f649ae0c035de30df7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724006210649
+status: 3
+tags: []
+user_id: AngelClavellina

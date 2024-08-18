@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/837760d253f946a5937f65ab80cd7420/artifacts
+end_time: 1724002502008
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: 837760d253f946a5937f65ab80cd7420
+run_name: colorful-colt-549
+run_uuid: 837760d253f946a5937f65ab80cd7420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724002448185
+status: 3
+tags: []
+user_id: AngelClavellina

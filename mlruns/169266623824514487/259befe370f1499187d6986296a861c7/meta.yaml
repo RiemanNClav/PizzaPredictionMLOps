@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/259befe370f1499187d6986296a861c7/artifacts
+end_time: 1724002402511
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: 259befe370f1499187d6986296a861c7
+run_name: casual-wren-816
+run_uuid: 259befe370f1499187d6986296a861c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724002379803
+status: 3
+tags: []
+user_id: AngelClavellina

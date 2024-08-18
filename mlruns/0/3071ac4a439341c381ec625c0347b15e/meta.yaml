@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mlruns/0/3071ac4a439341c381ec625c0347b15e/artifacts
+end_time: 1723921267274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3071ac4a439341c381ec625c0347b15e
+run_name: Random Forest
+run_uuid: 3071ac4a439341c381ec625c0347b15e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723921256653
+status: 3
+tags: []
+user_id: AngelClavellina

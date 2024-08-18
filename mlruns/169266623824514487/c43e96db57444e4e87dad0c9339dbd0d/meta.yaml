@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/c43e96db57444e4e87dad0c9339dbd0d/artifacts
+end_time: 1724002547596
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: c43e96db57444e4e87dad0c9339dbd0d
+run_name: sneaky-flea-881
+run_uuid: c43e96db57444e4e87dad0c9339dbd0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724002536209
+status: 3
+tags: []
+user_id: AngelClavellina

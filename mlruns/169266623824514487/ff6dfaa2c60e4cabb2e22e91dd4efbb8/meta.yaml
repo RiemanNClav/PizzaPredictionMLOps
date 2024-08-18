@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/ff6dfaa2c60e4cabb2e22e91dd4efbb8/artifacts
+end_time: 1724002502008
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: ff6dfaa2c60e4cabb2e22e91dd4efbb8
+run_name: nervous-finch-401
+run_uuid: ff6dfaa2c60e4cabb2e22e91dd4efbb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724002448185
+status: 3
+tags: []
+user_id: AngelClavellina

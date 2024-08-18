@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/9f3458aa56844aba96f75dcf224fa180/artifacts
+end_time: 1724006342638
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: 9f3458aa56844aba96f75dcf224fa180
+run_name: sassy-mole-999
+run_uuid: 9f3458aa56844aba96f75dcf224fa180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724006332326
+status: 3
+tags: []
+user_id: AngelClavellina

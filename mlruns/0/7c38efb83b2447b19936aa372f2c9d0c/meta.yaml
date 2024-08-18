@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mlruns/0/7c38efb83b2447b19936aa372f2c9d0c/artifacts
+end_time: 1723921494448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c38efb83b2447b19936aa372f2c9d0c
+run_name: AdaBoost Regressor
+run_uuid: 7c38efb83b2447b19936aa372f2c9d0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723921476490
+status: 3
+tags: []
+user_id: AngelClavellina
