@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/431de4ac9c744afc91128a38baddb244/artifacts
+end_time: 1724006313393
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: 431de4ac9c744afc91128a38baddb244
+run_name: peaceful-dolphin-763
+run_uuid: 431de4ac9c744afc91128a38baddb244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724006239766
+status: 3
+tags: []
+user_id: AngelClavellina

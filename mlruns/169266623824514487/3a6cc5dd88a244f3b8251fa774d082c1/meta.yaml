@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/3a6cc5dd88a244f3b8251fa774d082c1/artifacts
+end_time: 1724002402511
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: 3a6cc5dd88a244f3b8251fa774d082c1
+run_name: traveling-gnat-982
+run_uuid: 3a6cc5dd88a244f3b8251fa774d082c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724002379803
+status: 3
+tags: []
+user_id: AngelClavellina

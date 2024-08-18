@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/8ac3b0ef3a2f4d9f8d22d448c2bb11dc/artifacts
+end_time: 1724002432739
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: 8ac3b0ef3a2f4d9f8d22d448c2bb11dc
+run_name: indecisive-hog-499
+run_uuid: 8ac3b0ef3a2f4d9f8d22d448c2bb11dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724002422123
+status: 3
+tags: []
+user_id: AngelClavellina

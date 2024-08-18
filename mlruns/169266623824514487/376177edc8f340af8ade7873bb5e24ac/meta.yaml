@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/376177edc8f340af8ade7873bb5e24ac/artifacts
+end_time: 1724002502008
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: 376177edc8f340af8ade7873bb5e24ac
+run_name: gentle-seal-165
+run_uuid: 376177edc8f340af8ade7873bb5e24ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724002448185
+status: 3
+tags: []
+user_id: AngelClavellina

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/88d6d9411e8947f09f07a454daee74d1/artifacts
+end_time: 1724002515659
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: 88d6d9411e8947f09f07a454daee74d1
+run_name: Gradient Boosting
+run_uuid: 88d6d9411e8947f09f07a454daee74d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724002448185
+status: 3
+tags: []
+user_id: AngelClavellina

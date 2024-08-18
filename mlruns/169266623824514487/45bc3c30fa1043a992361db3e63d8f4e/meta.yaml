@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/45bc3c30fa1043a992361db3e63d8f4e/artifacts
+end_time: 1724002547596
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: 45bc3c30fa1043a992361db3e63d8f4e
+run_name: gentle-bat-548
+run_uuid: 45bc3c30fa1043a992361db3e63d8f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724002536209
+status: 3
+tags: []
+user_id: AngelClavellina

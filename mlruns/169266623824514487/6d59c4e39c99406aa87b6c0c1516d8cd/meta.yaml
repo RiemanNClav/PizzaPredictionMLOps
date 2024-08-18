@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/6d59c4e39c99406aa87b6c0c1516d8cd/artifacts
+end_time: 1724002581650
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: 6d59c4e39c99406aa87b6c0c1516d8cd
+run_name: treasured-grouse-879
+run_uuid: 6d59c4e39c99406aa87b6c0c1516d8cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724002557068
+status: 3
+tags: []
+user_id: AngelClavellina

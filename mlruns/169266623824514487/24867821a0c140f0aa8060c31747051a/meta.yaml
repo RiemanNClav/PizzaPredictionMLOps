@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/24867821a0c140f0aa8060c31747051a/artifacts
+end_time: 1724002402511
+entry_point_name: ''
+experiment_id: '169266623824514487'
+lifecycle_stage: active
+run_id: 24867821a0c140f0aa8060c31747051a
+run_name: hilarious-carp-832
+run_uuid: 24867821a0c140f0aa8060c31747051a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724002379803
+status: 3
+tags: []
+user_id: AngelClavellina

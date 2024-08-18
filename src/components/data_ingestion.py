@@ -8,10 +8,11 @@ from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
 
 from src.components.data_transformation import DataTransformation, DataCleaning
-from src.components.data_transformation import DataTransformationConfig
 
-from src.components.model_trainer import ModelTrainerConfig
-from src.components.model_trainer import ModelTrainer
+#rom src.components.model_trainer import ModelTrainer
+
+from src.components.model_trainer_mlflow import ModelTrainer
+
 
 
 @dataclass
@@ -62,4 +63,5 @@ if __name__=="__main__":
     train_arr, test_arr,_ = data_transformation.initiate_data_transformation(train_data,test_data)
 
     modeltrainer=ModelTrainer()
-    print(modeltrainer.initiate_model_trainer(train_arr, test_arr))
+    best_model_name, r2 = modeltrainer.initiate_model_trainer(train_arr, test_arr)
+    print(f"Best model: {best_model_name} \n R2: {r2}")

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mlruns/0/ff05ba18424646e29d913d11b60cf239/artifacts
+end_time: 1723942814912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff05ba18424646e29d913d11b60cf239
+run_name: Linear Regression
+run_uuid: ff05ba18424646e29d913d11b60cf239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723942809870
+status: 3
+tags: []
+user_id: AngelClavellina

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mlruns/0/72c5a8b425804b2db8f17828dc1f2273/artifacts
+end_time: 1723921612336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72c5a8b425804b2db8f17828dc1f2273
+run_name: XGBRegressor
+run_uuid: 72c5a8b425804b2db8f17828dc1f2273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723921604465
+status: 3
+tags: []
+user_id: AngelClavellina
