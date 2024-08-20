@@ -34,7 +34,7 @@ class ModelTrainer:
     def models_params(self):
         models_params_ = {
             "Random Forest": {
-            "model": RandomForestRegressor(),
+                "model": RandomForestRegressor(),
             "params": {
                     # 'criterion':['squared_error', 'friedman_mse', 'absolute_error', 'poisson'],
                     # 'max_features':['sqrt','log2',None],
