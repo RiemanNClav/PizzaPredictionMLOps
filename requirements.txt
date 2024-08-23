@@ -9,4 +9,5 @@ dill
 mlflow
 Flask
 pytest
+mysqlclient
 -e .

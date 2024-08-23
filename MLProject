@@ -1,0 +1,11 @@
+name: Loan_prediction
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    command: "python src/components/data_ingestion.py"
+    parameters:
+      config_file:
+        type: str
+        default: "config/default_config.yaml"

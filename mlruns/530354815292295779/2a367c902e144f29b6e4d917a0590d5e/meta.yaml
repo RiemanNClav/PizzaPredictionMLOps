@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/2a367c902e144f29b6e4d917a0590d5e/artifacts
+end_time: 1724183146881
+entry_point_name: ''
+experiment_id: '530354815292295779'
+lifecycle_stage: active
+run_id: 2a367c902e144f29b6e4d917a0590d5e
+run_name: calm-wasp-522
+run_uuid: 2a367c902e144f29b6e4d917a0590d5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724183130235
+status: 3
+tags: []
+user_id: AngelClavellina

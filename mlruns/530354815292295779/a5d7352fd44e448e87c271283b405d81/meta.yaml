@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/a5d7352fd44e448e87c271283b405d81/artifacts
+end_time: 1724182947446
+entry_point_name: ''
+experiment_id: '530354815292295779'
+lifecycle_stage: active
+run_id: a5d7352fd44e448e87c271283b405d81
+run_name: smiling-ram-658
+run_uuid: a5d7352fd44e448e87c271283b405d81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724182918411
+status: 3
+tags: []
+user_id: AngelClavellina

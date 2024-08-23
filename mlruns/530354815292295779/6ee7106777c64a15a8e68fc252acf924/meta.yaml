@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/6ee7106777c64a15a8e68fc252acf924/artifacts
+end_time: 1724183086163
+entry_point_name: ''
+experiment_id: '530354815292295779'
+lifecycle_stage: active
+run_id: 6ee7106777c64a15a8e68fc252acf924
+run_name: upbeat-penguin-136
+run_uuid: 6ee7106777c64a15a8e68fc252acf924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724183010718
+status: 3
+tags: []
+user_id: AngelClavellina

@@ -87,7 +87,7 @@ class ModelTrainer:
 
     def initiate_model_trainer(self,train_array,test_array):
         try:
-            experiment_name = "Modelo de Regresion"
+            experiment_name = "Modelo de Regresion- Roberto"
             artifact_repository = './mflow-run'
 
             mlflow.set_tracking_uri('http://127.0.0.1:5000/')

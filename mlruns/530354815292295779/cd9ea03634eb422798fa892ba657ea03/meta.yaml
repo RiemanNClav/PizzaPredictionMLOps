@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/cd9ea03634eb422798fa892ba657ea03/artifacts
+end_time: 1724183114638
+entry_point_name: ''
+experiment_id: '530354815292295779'
+lifecycle_stage: active
+run_id: cd9ea03634eb422798fa892ba657ea03
+run_name: skillful-hare-343
+run_uuid: cd9ea03634eb422798fa892ba657ea03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724183102703
+status: 3
+tags: []
+user_id: AngelClavellina

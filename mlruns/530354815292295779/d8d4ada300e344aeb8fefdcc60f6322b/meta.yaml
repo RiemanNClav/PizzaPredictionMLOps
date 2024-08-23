@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/d8d4ada300e344aeb8fefdcc60f6322b/artifacts
+end_time: 1724183146881
+entry_point_name: ''
+experiment_id: '530354815292295779'
+lifecycle_stage: active
+run_id: d8d4ada300e344aeb8fefdcc60f6322b
+run_name: exultant-ox-939
+run_uuid: d8d4ada300e344aeb8fefdcc60f6322b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724183130235
+status: 3
+tags: []
+user_id: AngelClavellina

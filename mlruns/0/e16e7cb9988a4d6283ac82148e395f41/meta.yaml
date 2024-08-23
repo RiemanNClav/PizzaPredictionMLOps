@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mlruns/0/e16e7cb9988a4d6283ac82148e395f41/artifacts
+end_time: 1724194884890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e16e7cb9988a4d6283ac82148e395f41
+run_name: fearless-chimp-881
+run_uuid: e16e7cb9988a4d6283ac82148e395f41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724194681914
+status: 4
+tags: []
+user_id: AngelClavellina
