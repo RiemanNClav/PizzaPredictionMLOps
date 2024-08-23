@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mflow-run/b5cf57847ab944cc9ce9cb07e2364492/artifacts
+end_time: 1724183010532
+entry_point_name: ''
+experiment_id: '530354815292295779'
+lifecycle_stage: active
+run_id: b5cf57847ab944cc9ce9cb07e2364492
+run_name: Decision Tree
+run_uuid: b5cf57847ab944cc9ce9cb07e2364492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724182983556
+status: 3
+tags: []
+user_id: AngelClavellina

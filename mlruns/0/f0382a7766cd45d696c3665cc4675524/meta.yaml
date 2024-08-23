@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AngelClavellina/Documents/MLOps/PizzaPredictionV2/mlruns/0/f0382a7766cd45d696c3665cc4675524/artifacts
+end_time: 1724196040530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0382a7766cd45d696c3665cc4675524
+run_name: tasteful-squirrel-59
+run_uuid: f0382a7766cd45d696c3665cc4675524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724196030905
+status: 4
+tags: []
+user_id: AngelClavellina
