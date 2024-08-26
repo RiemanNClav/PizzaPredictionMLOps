@@ -10,9 +10,9 @@ from dataclasses import dataclass
 
 from src.components.data_transformation import DataTransformation, DataCleaning
 
-#rom src.components.model_trainer import ModelTrainer
+from src.components.model_trainer import ModelTrainer
 
-from src.components.model_trainer_mlflow import ModelTrainer
+#from src.components.model_trainer_mlflow import ModelTrainer
 
 
 
