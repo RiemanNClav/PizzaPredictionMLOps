@@ -1,0 +1,70 @@
+[33mbd0b9cc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m integrated dash
+[33m08af9e0[m[33m ([m[1;31morigin/main[m[33m)[m modified app.py and home.html
+[33me9c26eb[m fixed conflicted
+[33m8fcf4bc[m new changes
+[33mec6e7a6[m ignore mlrun and mlflow
+[33mcfba86b[m ignore mlrun and mlflow
+[33me2f7f4d[m Update3 data_ingestion.py
+[33m5da96a1[m Update3 data_ingestion.py
+[33mb516c63[m Update2 data_ingestion.py
+[33md3515ff[m Update2 data_ingestion.py
+[33m4f02de4[m Update data_ingestion.py
+[33m8c2e211[m Update data_ingestion.py
+[33m6a48660[m Update data_ingestion.py
+[33m50f065c[m Update data_ingestion.py
+[33m3d2fdb1[m Update2 main.yml
+[33m4d33b98[m Update2 main.yml
+[33m7cf483c[m Create main.yml
+[33md7fa949[m Create main.yml
+[33m9d6d8ed[m add mlflow
+[33mf79d1dd[m add mlflow
+[33m3fdbc2c[m Add test, docker, Flask ap
+[33m361d256[m Add test, docker, Flask ap
+[33m4fda280[m mlflow added
+[33mffbfc63[m mlflow added
+[33m3629521[m model trainer added
+[33m6e6c49c[m model trainer added
+[33mca822f6[m data_transformation.py added
+[33m3d19f80[m data_transformation.py added
+[33m97669af[m data_ingestion.py is ready
+[33m71c93c9[m data_ingestion.py is ready
+[33m6bd7118[m setup and requirement
+[33mc003319[m setup and requirement
+[33m18bb506[m Create .gitignore
+[33m6bbe018[m Create .gitignore
+[33meaa1553[m first commit
+[33mbd0b9cc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m integrated dash
+[33m08af9e0[m[33m ([m[1;31morigin/main[m[33m)[m modified app.py and home.html
+[33me9c26eb[m fixed conflicted
+[33m8fcf4bc[m new changes
+[33mec6e7a6[m ignore mlrun and mlflow
+[33mcfba86b[m ignore mlrun and mlflow
+[33me2f7f4d[m Update3 data_ingestion.py
+[33m5da96a1[m Update3 data_ingestion.py
+[33mb516c63[m Update2 data_ingestion.py
+[33md3515ff[m Update2 data_ingestion.py
+[33m4f02de4[m Update data_ingestion.py
+[33m8c2e211[m Update data_ingestion.py
+[33m6a48660[m Update data_ingestion.py
+[33m50f065c[m Update data_ingestion.py
+[33m3d2fdb1[m Update2 main.yml
+[33m4d33b98[m Update2 main.yml
+[33m7cf483c[m Create main.yml
+[33md7fa949[m Create main.yml
+[33m9d6d8ed[m add mlflow
+[33mf79d1dd[m add mlflow
+[33m3fdbc2c[m Add test, docker, Flask ap
+[33m361d256[m Add test, docker, Flask ap
+[33m4fda280[m mlflow added
+[33mffbfc63[m mlflow added
+[33m3629521[m model trainer added
+[33m6e6c49c[m model trainer added
+[33mca822f6[m data_transformation.py added
+[33m3d19f80[m data_transformation.py added
+[33m97669af[m data_ingestion.py is ready
+[33m71c93c9[m data_ingestion.py is ready
+[33m6bd7118[m setup and requirement
+[33mc003319[m setup and requirement
+[33m18bb506[m Create .gitignore
+[33m6bbe018[m Create .gitignore
+[33meaa1553[m first commit
